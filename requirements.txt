@@ -1,0 +1,7 @@
+scikit_learn
+pandas
+numpy
+flask
+joblib
+seaborn
+pickle
